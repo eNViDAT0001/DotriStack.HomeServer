@@ -1,0 +1,6 @@
+@DotriStack.HomeServer.Server_HostAddress = http://localhost:5103
+
+GET {{DotriStack.HomeServer.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
