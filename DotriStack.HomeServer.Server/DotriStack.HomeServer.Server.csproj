@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Aspire\DotriStack.ServiceDefaults\DotriStack.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\..\Aspire\DotriStack.ServiceDefaults\DotriStack.ServiceDefaults.csproj" />
     <ProjectReference Include="..\dotristack.homeserver.client\dotristack.homeserver.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
